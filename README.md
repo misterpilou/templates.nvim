@@ -1,0 +1,2 @@
+# templates.nvim
+templates.nvim
